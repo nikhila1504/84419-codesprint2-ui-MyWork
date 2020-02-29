@@ -1,0 +1,21 @@
+My associate id:
+84419
+Other team members:
+844426, 844418, 844439, 844437
+Team lead:
+84418
+My Role in team:
+to develope pace appointment page and component
+My development files:
+1. Placeappointment.component.ts
+2. package.json
+3. Angular.json
+4.viewappointment.component.ts
+I was strong in:
+1. Template Driven Forms
+2.Reactive Forms and Forms Validation
+3. Documentation
+I was weak in:
+1. htppclient
+Feedback:
+1. Able to read codesprint document 1 day in advance will help.
